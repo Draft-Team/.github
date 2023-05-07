@@ -22,10 +22,18 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
 <table>
   <tr>
     <td align="center">
-      <a href="#">
+      <a href="https://github.com/vitorFRE">
         <img src="https://user-images.githubusercontent.com/68834970/236699207-272db10f-edf7-4e0f-b32d-46d644f35b0b.png" width="100px;" alt="Foto do VitorFRE no GitHub"/><br>
         <sub>
           <b>VitorFRE</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/matheuspergoli">
+        <img src="https://avatars.githubusercontent.com/u/94739199?v=4" width="100px;" alt="Foto do VitorFRE no GitHub"/><br>
+        <sub>
+          <b>Matheus Pergoli</b>
         </sub>
       </a>
     </td>
