@@ -31,9 +31,25 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
     </td>
     <td align="center">
       <a target="_blank" href="https://github.com/matheuspergoli">
-        <img src="https://avatars.githubusercontent.com/u/94739199?v=4" width="100px;" alt="Foto do VitorFRE no GitHub"/><br>
+        <img src="https://avatars.githubusercontent.com/u/94739199?v=4" width="100px;" alt="Foto do Matheus Pergoli no GitHub"/><br>
         <sub>
           <b>Matheus Pergoli</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a target="_blank" href="https://github.com/NatanCastro">
+        <img src="https://avatars.githubusercontent.com/u/65430728?v=4" width="100px;" alt="Foto do Natan no GitHub"/><br>
+        <sub>
+          <b>Natan Castro</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a target="_blank" href="https://github.com/matheusgmc">
+        <img src="https://avatars.githubusercontent.com/u/73797734?v=4" width="100px;" alt="Foto do Matheus Geraldo no GitHub"/><br>
+        <sub>
+          <b>Matheus Geraldo</b>
         </sub>
       </a>
     </td>
