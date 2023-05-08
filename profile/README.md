@@ -53,5 +53,13 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
         </sub>
       </a>
     </td>
+    <td align="center">
+      <a target="_blank" href="https://github.com/0rogerinho">
+        <img src="https://avatars.githubusercontent.com/u/120338267?v=4" width="100px;" alt="Foto do Rogerinho no GitHub"/><br>
+        <sub>
+          <b>Rogerinho</b>
+        </sub>
+      </a>
+    </td>
   </tr>
 </table>
