@@ -11,9 +11,9 @@ Nosso objetivo é fornecer aos nossos usuários uma maneira fácil de descobrir 
 
 ## Stack utilizada
 
-**Front-end:** React, NextJS, TailwindCSS, Storybook, Typescript
+**Front-end:** ReactJS / NextJS / Typescript / TailwindCSS / Storybook
 
-**Back-end:** Node, Express, TypeScript, Docker
+**Back-end:** Node / Express / Typescript / Jest / Supertest / Prisma / MySQL
 
 ## 🤝 Colaboradores
 
