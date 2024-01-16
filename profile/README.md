@@ -4,7 +4,13 @@
 
 # Sobre o Draft Team
 
-## Stack utilizada
+## 🚀 Stack utilizada nos projetos
+
+### Frontend
+**React / Next / Typescript / Storybook / Tailwind / Radix / Vite**
+
+### Backend 
+**Node / Express / Nest / Typescript / Prisma / Docker**
 
 ## 🤝 Equipe
 
