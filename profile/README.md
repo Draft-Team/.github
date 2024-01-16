@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="./bn.png" alt="Banner" style="width: 100%; max-width: 800px;" />
+    <img src="https://github.com/Draft-Team/.github/assets/68834970/8e15b8ec-c133-47f5-8035-0f891caf301a" alt="Banner" style="width: 100%; max-width: 800px;" />
 </p>
 
 # Sobre o DraftCode
