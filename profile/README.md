@@ -2,21 +2,11 @@
     <img src="https://github.com/Draft-Team/.github/assets/68834970/8e15b8ec-c133-47f5-8035-0f891caf301a" alt="Banner" style="width: 100%; max-width: 800px;" />
 </p>
 
-# Sobre o DraftCode
-
-O Draftcode é uma iniciativa de uma pequena comunidade de desenvolvedores reunidos no Discord com o objetivo de ajudar as pessoas a encontrar desafios front-end, back-end e outras oportunidades de aprendizado de forma simples e acessível.
-
-Nosso objetivo é fornecer aos nossos usuários uma maneira fácil de descobrir novos desafios de programação e projetos de desenvolvimento para aprimorar suas habilidades e construir portfólios impressionantes.
+# Sobre o Draft Team
 
 ## Stack utilizada
 
-**Front-end:** ReactJS / NextJS / Typescript / TailwindCSS / Storybook
-
-**Back-end:** Node / Express / Typescript / Jest / Supertest / Prisma / MySQL
-
-## 🤝 Colaboradores
-
-Agradecemos às seguintes pessoas que contribuíram para este projeto:
+## 🤝 Equipe
 
 <table>
   <tr>
