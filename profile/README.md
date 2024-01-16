@@ -1,7 +1,6 @@
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/68834970/236698917-55d66fa7-3615-46b5-8e85-74d07dd0a9eb.png" alt="Banner" style="width: 100%; max-width: 800px;" />
+    <img src="./bn.png" alt="Banner" style="width: 100%; max-width: 800px;" />
 </p>
-
 
 # Sobre o DraftCode
 
